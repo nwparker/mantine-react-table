@@ -60,6 +60,7 @@ export const MRT_TableHeadCellSortLabel = <
           className={clsx('mrt-table-head-sort-button', classes['sort-icon'])}
           aria-label={sortTooltip}
           {...dataVariable('sorted', sorted)}
+          variant="transparent"
         >
           {icon}
         </ActionIcon>

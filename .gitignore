@@ -18,8 +18,6 @@ build
 packages/mantine-react-table/locales
 packages/mantine-react-table/styles.css
 .cache
-/dist
-dist
 storybook-static
 
 # misc
